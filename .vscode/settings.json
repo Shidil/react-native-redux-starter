@@ -1,0 +1,10 @@
+// Workspace settings
+{
+  // The following will hide the js and map files in the editor
+  "files.exclude": {
+      "dist": true,
+      "node_modules": true,
+      "dll": true,
+      "artifacts": true
+  }
+}

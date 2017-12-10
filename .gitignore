@@ -1,0 +1,6 @@
+node_modules/
+artifacts/
+.expo/
+.jest/
+npm-debug.*
+.DS_Store

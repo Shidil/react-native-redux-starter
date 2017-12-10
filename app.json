@@ -1,0 +1,29 @@
+{
+	"expo": {
+		"sdkVersion": "21.0.0",
+		"slug": "react-native-redux-starter",
+		"loading": {
+			"hideExponentText": false,
+			"icon": "./assets/loading.png"
+		},
+		"orientation": "portrait",
+		"primaryColor": "#cccccc",
+		"packagerOpts": {
+			"assetExts": ["ttf"]
+		},
+		"androidStatusBarColor": "#334393",
+		"androidStatusBar": {
+			"barStyle": "light-content",
+			"backgroundColor": "#334393"
+    },
+    "name": "React Native Redux Starter",
+    "icon": "./assets/icon.png",
+    "version": "1.0.0",
+    "ios": {
+      "bundleIdentifier": "com.shidil.reactnative.starter"
+    },
+    "android": {
+      "package": "com.shidil.reactnative.starter"
+    }
+	}
+}
